@@ -1,7 +1,6 @@
 package com.example.java.crud.api.mysql.controller;
 
 import com.example.java.crud.api.mysql.models.Employee;
-import  com.example.java.crud.api.mysql.EmployeeRepository;
 
 import com.example.java.crud.api.mysql.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
